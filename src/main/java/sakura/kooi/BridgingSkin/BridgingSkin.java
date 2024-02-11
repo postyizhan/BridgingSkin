@@ -23,8 +23,8 @@ import sakura.kooi.BridgingAnalyzer.utils.Metrics;
 import sakura.kooi.BridgingAnalyzer.api.BridgingAnalyzerAPI;
 import sakura.kooi.BridgingSkin.data.PlayerSkin;
 import sakura.kooi.BridgingSkin.data.SkinSet;
-import sakura.lib.com.google.gson.Gson;
-import sakura.lib.com.google.gson.GsonBuilder;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 
 public class BridgingSkin extends JavaPlugin implements Listener{
 	@Getter private static BridgingSkin instance;

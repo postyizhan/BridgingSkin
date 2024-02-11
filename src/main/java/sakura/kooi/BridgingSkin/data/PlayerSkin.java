@@ -2,7 +2,7 @@ package sakura.kooi.BridgingSkin.data;
 
 import java.util.LinkedHashSet;
 
-import sakura.lib.com.google.gson.annotations.SerializedName;
+import com.google.gson.annotations.SerializedName;
 
 public class PlayerSkin {
 	@SerializedName("uuid")

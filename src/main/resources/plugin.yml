@@ -1,0 +1,12 @@
+name: BridgingSkin
+main: sakura.kooi.BridgingSkin.BridgingSkin
+version: '${project.version}'
+author: SakuraKooi
+depend: ["BridgingAnalyzer"]
+commands:
+  bskin:
+    description: Choose your skin.
+    usage: /bskin
+  bskin-edit:
+    description: Edit your skin.
+    usage: /bskin-edit

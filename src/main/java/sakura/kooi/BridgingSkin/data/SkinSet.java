@@ -1,6 +1,6 @@
 package sakura.kooi.BridgingSkin.data;
 
-import sakura.lib.com.google.gson.annotations.SerializedName;
+import com.google.gson.annotations.SerializedName;
 
 public class SkinSet {
 	@SerializedName("Material")
